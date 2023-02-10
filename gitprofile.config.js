@@ -59,14 +59,14 @@ const config = {
       companyLink: 'https://www.xxxlutz.de',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
       name: 'Python for Marketing',
       body: 'Certificate Id: AboyQixDI-AfafXQiCV4OUuzuhPi',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Southern Methodist University',
