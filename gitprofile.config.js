@@ -66,15 +66,13 @@ const config = {
       year: 'March 2022',
       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Python%20for%20Marketing.pdf'
     },
+    {
+      name: 'Advanced Google Ads',
+      body: 'Certificate Id: AVAzLaLEz7wGDbI-zSRFJrJJ6ck8',
+      year: 'May 2022',
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Google%20Ads.pdf'
+    },
   ], 
-//      certifications: [
-//     {
-//       name: 'Advanced Google Ads',
-//       body: 'Certificate Id: AVAzLaLEz7wGDbI-zSRFJrJJ6ck8',
-//       year: 'May 2022',
-//       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Google%20Ads.pdf'
-//     },
-//   ], 
 //      certifications: [
 //     {
 //       name: 'Advanced Web Development with Django',
@@ -109,6 +107,13 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
+     {
+      title: 'Music Meister',
+      description:
+        'Digital Ecommerce Beat Store.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
     {
       title: 'Meister Affiliate Shop',
       description: 'Amazon Affiliate Website',
