@@ -12,13 +12,13 @@ const config = {
   },
   social: {
     linkedin: 'lancemeister',
-    twitter: 'arif_szn',
+    twitter: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'k.lancemeister',
+    dev: 'pymeister',
     stackoverflow: '14851839/lance-meister', // format: userid/username
     website: 'https://pymeister.github.io/',
     phone: '',
