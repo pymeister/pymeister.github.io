@@ -22,26 +22,25 @@ const config = {
     stackoverflow: '', // format: userid/username
     website: 'https://arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'dev.pymeister@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+   
+    'Django',
+    'Python',
+    'Pandas',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'Heroku',
     'CSS',
-    'Antd',
+    'JavaScript',
+    'HTML',
     'Tailwind',
   ],
   experiences: [
@@ -53,31 +52,31 @@ const config = {
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'XXXLutz Marketing',
+      position: 'Technical SEO Manager',
+      from: 'May 2020',
+      to: 'May 2021',
+      companyLink: 'https://www.xxxlutz.de',
     },
   ],
   /* certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Python for Marketing',
+      body: 'Certificate Id: AboyQixDI-AfafXQiCV4OUuzuhPi',
       year: 'March 2022',
       link: 'https://example.com'
     },
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Southern Methodist University',
+      degree: 'Bachelors',
       from: '2015',
       to: '2019',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'North Lake College',
+      degree: 'Assosciates',
       from: '2012',
       to: '2014',
     },
@@ -86,16 +85,15 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      title: 'Meister Affiliate Shop',
+      description: 'Amazon Affiliate Website'
+      imageUrl: 'https://www.meisteraffiliateshop.com/static/logo/vertical_logo.b6108b73944e.svg',
+      link: 'https://www.meisteraffiliateshop.com/',
     },
     {
-      title: 'Project Name',
+      title: 'Kletter.Info',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Best climbing locations in Germany',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
