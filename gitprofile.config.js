@@ -67,30 +67,30 @@ const config = {
       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Python%20for%20Marketing.pdf'
     },
   ], 
-     certifications: [
-    {
-      name: 'Advanced Google Ads',
-      body: 'Certificate Id: AVAzLaLEz7wGDbI-zSRFJrJJ6ck8',
-      year: 'May 2022',
-      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Google%20Ads.pdf'
-    },
-  ], 
-     certifications: [
-    {
-      name: 'Advanced Web Development with Django',
-      body: 'Certificate Id: Ab1l1jhME3gcSqQ2E9Rl_uL9iVH5',
-      year: 'May 2020',
-      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Web%20Development%20with%20Django.pdf'
-    },
-  ], 
-     certifications: [
-    {
-      name: 'Affiliate Marketing Foundations',
-      body: 'Certificate Id: AQXdFsj01a2R_5tHwAqZquBxV4pO',
-      year: 'January 2023',
-      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Affiliate%20Marketing%20Foundations.pdf'
-    },
-  ], 
+//      certifications: [
+//     {
+//       name: 'Advanced Google Ads',
+//       body: 'Certificate Id: AVAzLaLEz7wGDbI-zSRFJrJJ6ck8',
+//       year: 'May 2022',
+//       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Google%20Ads.pdf'
+//     },
+//   ], 
+//      certifications: [
+//     {
+//       name: 'Advanced Web Development with Django',
+//       body: 'Certificate Id: Ab1l1jhME3gcSqQ2E9Rl_uL9iVH5',
+//       year: 'May 2020',
+//       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Web%20Development%20with%20Django.pdf'
+//     },
+//   ], 
+//      certifications: [
+//     {
+//       name: 'Affiliate Marketing Foundations',
+//       body: 'Certificate Id: AQXdFsj01a2R_5tHwAqZquBxV4pO',
+//       year: 'January 2023',
+//       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Affiliate%20Marketing%20Foundations.pdf'
+//     },
+//   ], 
    
   education: [
     {
@@ -125,8 +125,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'pymeister', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'k.lancemeister', // to hide blog section, keep it empty
     limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
