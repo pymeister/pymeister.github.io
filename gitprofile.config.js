@@ -86,7 +86,7 @@ const config = {
   externalProjects: [
     {
       title: 'Meister Affiliate Shop',
-      description: 'Amazon Affiliate Website'
+      description: 'Amazon Affiliate Website',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://www.meisteraffiliateshop.com/',
     },
