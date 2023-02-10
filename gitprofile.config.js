@@ -45,9 +45,9 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Self Employed',
+      position: 'Freelance Marketing',
+      from: 'May 2020',
       to: 'Present',
       companyLink: 'https://example.com',
     },
