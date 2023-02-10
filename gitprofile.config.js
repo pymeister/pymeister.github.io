@@ -87,7 +87,7 @@ const config = {
     {
       title: 'Meister Affiliate Shop',
       description: 'Amazon Affiliate Website'
-      imageUrl: 'https://www.meisteraffiliateshop.com/static/logo/vertical_logo.b6108b73944e.svg',
+      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://www.meisteraffiliateshop.com/',
     },
     {
