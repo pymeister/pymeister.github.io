@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'lancemeister',
     twitter: 'arif_szn',
     facebook: '',
     instagram: '',
@@ -19,8 +19,8 @@ const config = {
     behance: '',
     medium: 'arifszn',
     dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
+    stackoverflow: '14851839/lance-meister', // format: userid/username
+    website: 'https://pymeister.github.io/',
     phone: '',
     email: 'dev.pymeister@gmail.com',
   },
