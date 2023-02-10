@@ -64,7 +64,7 @@ const config = {
       name: 'Python for Marketing',
       body: 'Certificate Id: AboyQixDI-AfafXQiCV4OUuzuhPi',
       year: 'March 2022',
-      link: 'https://example.com'
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Python%20for%20Marketing.pdf'
     },
   ], 
   education: [
