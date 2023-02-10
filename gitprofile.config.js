@@ -72,23 +72,19 @@ const config = {
       year: 'May 2022',
       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Google%20Ads.pdf'
     },
+    {
+      name: 'Advanced Web Development with Django',
+      body: 'Certificate Id: Ab1l1jhME3gcSqQ2E9Rl_uL9iVH5',
+      year: 'May 2020',
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Web%20Development%20with%20Django.pdf'
+    },
+    {
+      name: 'Affiliate Marketing Foundations',
+      body: 'Certificate Id: AQXdFsj01a2R_5tHwAqZquBxV4pO',
+      year: 'January 2023',
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Affiliate%20Marketing%20Foundations.pdf'
+    },
   ], 
-//      certifications: [
-//     {
-//       name: 'Advanced Web Development with Django',
-//       body: 'Certificate Id: Ab1l1jhME3gcSqQ2E9Rl_uL9iVH5',
-//       year: 'May 2020',
-//       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Web%20Development%20with%20Django.pdf'
-//     },
-//   ], 
-//      certifications: [
-//     {
-//       name: 'Affiliate Marketing Foundations',
-//       body: 'Certificate Id: AQXdFsj01a2R_5tHwAqZquBxV4pO',
-//       year: 'January 2023',
-//       link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Affiliate%20Marketing%20Foundations.pdf'
-//     },
-//   ], 
    
   education: [
     {
