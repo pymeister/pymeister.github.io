@@ -64,9 +64,28 @@ const config = {
       name: 'Python for Marketing',
       body: 'Certificate Id: AboyQixDI-AfafXQiCV4OUuzuhPi',
       year: 'March 2022',
-      link: 'https://example.com'
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Python%20for%20Marketing.pdf'
+    },
+    {
+      name: 'Advanced Google Ads',
+      body: 'Certificate Id: AVAzLaLEz7wGDbI-zSRFJrJJ6ck8',
+      year: 'May 2022',
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Google%20Ads.pdf'
+    },
+    {
+      name: 'Advanced Web Development with Django',
+      body: 'Certificate Id: Ab1l1jhME3gcSqQ2E9Rl_uL9iVH5',
+      year: 'May 2020',
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Advanced%20Web%20Development%20with%20Django.pdf'
+    },
+    {
+      name: 'Affiliate Marketing Foundations',
+      body: 'Certificate Id: AQXdFsj01a2R_5tHwAqZquBxV4pO',
+      year: 'January 2023',
+      link: 'https://cdn.jsdelivr.net/gh/pymeister/pymeister.github.io@main/certificates/CertificateOfCompletion_Affiliate%20Marketing%20Foundations.pdf'
     },
   ], 
+   
   education: [
     {
       institution: 'Southern Methodist University',
@@ -84,6 +103,13 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
+     {
+      title: 'Music Meister',
+      description:
+        'Digital Ecommerce Beat Store.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
     {
       title: 'Meister Affiliate Shop',
       description: 'Amazon Affiliate Website',
@@ -99,10 +125,10 @@ const config = {
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
+   blog: {
     source: 'medium', // medium | dev
     username: 'k.lancemeister', // to hide blog section, keep it empty
-    limit: 5, // How many posts to display. Max is 10.
+    limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -113,11 +139,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'dracula',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
