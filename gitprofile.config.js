@@ -26,7 +26,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://rawcdn.githack.com/pymeister/pymeister.github.io/b2db2ec94a1bded88feaff707bbd81dbc57230ca/resume/resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
    
