@@ -115,7 +115,7 @@ const config = {
     {
       title: 'Meister Affiliate Shop',
       description: 'Amazon Affiliate Website',
-      imageUrl: 'https://www.meisteraffiliateshop.com/static/logo/vertical_logo.b6108b73944e.svg',
+      imageUrl: 'https://rawcdn.githack.com/pymeister/pymeister.github.io/22f43143ce623b9bdb71836da8c11a0198e2e7fb/images/mas_vertical_logo.png',
       link: 'https://www.meisteraffiliateshop.com/',
     },
     {
