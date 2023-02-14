@@ -107,8 +107,8 @@ const config = {
       title: 'Music Meister',
       description:
         'Digital Ecommerce Beat Store.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://staging-musicmeister.herokuapp.com/static/img/logo/logo.29a7f74893c2.svg',
+      link: 'https://staging-musicmeister.herokuapp.com/',
     },
     {
       title: 'Meister Affiliate Shop',
@@ -120,8 +120,8 @@ const config = {
       title: 'Kletter.Info',
       description:
         'Best climbing locations in Germany',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://images.unsplash.com/photo-1515310787031-25ac2d68610d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+      link: 'https://staging-kletterinfo.herokuapp.com/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
