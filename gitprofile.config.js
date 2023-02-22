@@ -1,14 +1,4 @@
 // gitprofile.config.js
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M66FTZM6CJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M66FTZM6CJ');
-</script>
-
 const config = {
   github: {
     username: 'pymeister', // Your GitHub org/user name. (Required)
