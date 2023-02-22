@@ -9,7 +9,7 @@ const config = {
       projects: ['blackandwhite ','rockclimbing','django-critical','django-cms-cookiecutter',
                  'pi-hole ','django-cookie-consent ','flight-scheduler','local_library ',
                 'pizza_shop','healthcare-chatbot','awesome-python ','leaflet-color-markers',
-                'scrapy-amazon-scraper','page_spider_env','',], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+                'scrapy-amazon-scraper','page_spider_env','images',], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
