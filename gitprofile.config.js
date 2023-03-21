@@ -109,7 +109,7 @@ const config = {
       title: 'Music Meister',
       description:
         'Digital Ecommerce Beat Store.',
-      imageUrl: 'https://staging-musicmeister.herokuapp.com/static/img/logo/logo.29a7f74893c2.svg',
+      imageUrl: 'https://music-meister-bucket.s3.amazonaws.com/static/img/logo/logo.svg',
       link: 'https://staging-musicmeister.herokuapp.com/',
     },
     {
