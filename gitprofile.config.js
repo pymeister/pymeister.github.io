@@ -90,6 +90,12 @@ const config = {
    
   education: [
     {
+      institution: 'University of Maryland Global Campus',
+      degree: 'Bachelors',
+      from: '2023',
+      to: '2024',
+    },
+    {
       institution: 'Southern Methodist University',
       degree: 'Bachelors',
       from: '2015',
