@@ -129,7 +129,7 @@ const config = {
       description:
         'Best climbing locations in Germany',
       imageUrl: 'https://images.unsplash.com/photo-1515310787031-25ac2d68610d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-      link: 'https://staging-kletterinfo.herokuapp.com/',
+      link: 'https://kletter.info/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
